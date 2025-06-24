@@ -51,7 +51,7 @@ Además, se recomienda tener soporte CUDA si se desea acelerar el entrenamiento 
 
 Ejemplo de imágenes generadas:
 
-![sample](H:\Tarea\SIS421\Laboratorios\lab\SIS421-2025-ASCC\Final\Sample.png)
+![sample](https://github.com/Sebastian-Cepeda-Ch/SIS421-2025-ASCC/blob/main/Final/Sample.png)
 
 ## 📚 Dataset
 
