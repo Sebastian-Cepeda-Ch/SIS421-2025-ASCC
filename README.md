@@ -61,8 +61,3 @@ Se utilizó el dataset **[Stanford Cars](https://ai.stanford.edu/~jkrause/cars/c
 
 - Implementación inspirada en el paper original de DDPM (Ho et al., 2020).
 - Dataset provisto por Stanford AI Lab.
-- Autor: *[Tu nombre o equipo]*
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más información.
